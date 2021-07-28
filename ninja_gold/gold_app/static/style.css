@@ -1,0 +1,38 @@
+#wrapper {
+    padding: 20px;
+    }
+h6 {
+    display: inline-flex;
+    }
+#count {
+    border: 2px solid black;
+    padding: 5px;
+    }
+#forms {
+    display: flex;
+    justify-content: center;
+    }
+form {
+    border: 3px solid black;
+    padding: 10px;
+    margin: 10px;
+    width: 20%;
+    text-align: center;
+    }
+h1, h2 {
+    display: block;
+    }
+input {
+    display: inline-flex;
+    }
+#scroll {
+    height: 200px;
+    overflow-y: scroll;
+    border: 2px solid black;
+    margin-bottom: 20px;
+    }
+a {
+    background-color: black;
+    color: white;
+    padding: 5px;
+    }
